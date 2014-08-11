@@ -1,0 +1,4 @@
+casket.tch
+solr/solr/data/index
+solr/solr/logs/
+*.pyc
